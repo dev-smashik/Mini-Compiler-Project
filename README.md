@@ -9,8 +9,6 @@ A comprehensive educational compiler implementation demonstrating all major phas
 **Creator:** Sheikh Muhammad Ashik  
 **ID:** 21201118  
 **Course:** CSE 430 - Compiler Design Lab
-**University:** University of Asia Pacific
-
 ---
 
 ## 📋 Table of Contents
